@@ -1,4 +1,4 @@
-# Proyecto Finnal Multiprocesadores
+# Proyecto Final Multiprocesadores
 
 El trabajo de investigación deberá ser elaborado de manera individual. 
 Cada estudiante seleccionará un problema de programación que pueda ser paralelizado usando al menor cuatro de las cinco herramientas que fueron cubiertas en clase:
